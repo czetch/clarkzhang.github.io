@@ -32,4 +32,4 @@ The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https:
 
 ## Resume
 
-{% include resume.html %}
+{% include _includes/resume.html %}
