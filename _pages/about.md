@@ -19,10 +19,7 @@ David prides himself on his diverse skill set. His most prominent fields of expe
 David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
 
 * Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+* 
 
 ## Press 
 
@@ -32,6 +29,6 @@ The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https:
 
 ## Resume
 
-<object data="/assets/Resume_20231001.pdf" type="application/pdf" width="100%" height="500px">
-    <p>Unable to display PDF file. <a href="/assets/Resume_20231001.pdf">Download</a> instead.</p>
+<object data="/clarkzhang.github.io//assets/Resume_20231001.pdf" type="application/pdf" width="100%" height="500px">
+    <p>Unable to display PDF file. <a href="/clarkzhang.github.io/assets/Resume_20231001.pdf">Download</a> instead.</p>
 </object>
