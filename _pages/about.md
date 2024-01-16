@@ -29,6 +29,6 @@ The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https:
 
 ## Resume
 
-<object data="/clarkzhang.github.io//assets/Resume_20231001.pdf" type="application/pdf" width="100%" height="100px">
+<object data="/clarkzhang.github.io//assets/Resume_20231001.pdf" type="application/pdf" width="100%" height="150px">
     <p>Unable to display PDF file. <a href="/clarkzhang.github.io/assets/Resume_20231001.pdf">Download</a> instead.</p>
 </object>
