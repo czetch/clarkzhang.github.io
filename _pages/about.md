@@ -32,4 +32,6 @@ The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https:
 
 ## Resume
 
-{% include _includes/resume.html %}
+<object data="/assets/Resume_20231001.pdf" type="application/pdf" width="100%" height="500px">
+    <p>Unable to display PDF file. <a href="/assets/Resume_20231001.pdf">Download</a> instead.</p>
+</object>
