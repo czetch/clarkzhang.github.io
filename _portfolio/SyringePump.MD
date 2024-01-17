@@ -19,7 +19,7 @@ header:
 
 # Parts Required
 
-<div align="center">
+
 | COTS Part                                                            | Quantity |
 |----------------------------------------------------------------------|----------|
 | 250 mm lead screw with 2 mm pitch and 2 mm lead                      | 1        |
@@ -36,8 +36,7 @@ header:
 | Panel Mount Momentary Push Buttons                                   | 2        |
 | Limit Switch                                                         | 1        |
 | RGB Common Cathode LED                                               | 1        |
-</div>
-<div align="center">
+
 | Custom 3D-Printed Part | Quantity |
 |------------------------|----------|
 | Motor Housing          | 1        |
@@ -49,4 +48,3 @@ header:
 | Control Panel Wall     | 1        |
 | Logo Wall              | 1        |
 | Top Cover              | 1        |
-</div>
