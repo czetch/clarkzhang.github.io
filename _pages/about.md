@@ -27,9 +27,9 @@ Clark can operate manual mills and lathes, as well as utilize computer numerical
 
 ## Publications
 
-* Clark Zhang, Haitao Chu, Veronica Pei, Jason Zhang. Laboratory effects of COVID-19 Infection in pregnant women and their newborns: a systematic review and meta-analysis. Frontiers Global Mat., 2021, 2 (https://doi.org/10.3389/fgwh.2021.647072)
-* Clark Zhang, Xuan Luo. DFT screening of metallic single-replacements for lead-free perovskites with intrinsic photovoltaic functionalities. RSC Adv. 2020. 2020, 10, 23743-23748 (https://doi.org/10.1039/D0RA03034A)
-* D. Liu, C. Chen, Y. Zhou, Y. Bao, S. He, H. Huang, C. Zhang, B. Foster, T. Li, L. Hu. 3D-Printed, High-Porosity, High-Strength Graphite Aerogel for Sustainable Packaging. Small Methods, 2021, 7, 5 (https://doi.org/10.1002/smtd.202001188)
+* Clark Zhang, Haitao Chu, Veronica Pei, Jason Zhang. Laboratory effects of COVID-19 Infection in pregnant women and their newborns: a systematic review and meta-analysis. Frontiers Global Mat., 2021, 2 [Link](https://doi.org/10.3389/fgwh.2021.647072)
+* Clark Zhang, Xuan Luo. DFT screening of metallic single-replacements for lead-free perovskites with intrinsic photovoltaic functionalities. RSC Adv. 2020. 2020, 10, 23743-23748 [Link](https://doi.org/10.1039/D0RA03034A)
+* D. Liu, C. Chen, Y. Zhou, Y. Bao, S. He, H. Huang, C. Zhang, B. Foster, T. Li, L. Hu. 3D-Printed, High-Porosity, High-Strength Graphite Aerogel for Sustainable Packaging. Small Methods, 2021, 7, 5 [Link](https://doi.org/10.1002/smtd.202001188)
 
 ## CV
 
