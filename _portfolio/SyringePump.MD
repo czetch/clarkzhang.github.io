@@ -15,7 +15,7 @@ header:
 
 # Operating Instructions
 
-The power supply must be connected to a standard 120 V wall socket, and the Arduino UNO circuit must be connected through USB cable to a computer running the full program ([link to Arduino code](/assets/StepperMotor.ino)). When loading a new syringe into the pump, enter the corresponding syringe diameter into the program by changing the global variable SYRINGE_DIAMETER, and reupload the program to the Arduino.
+The power supply must be connected to a standard 120 V wall socket, and the Arduino UNO circuit must be connected through USB cable to a computer running the full program ([link to Arduino code](/clarkzhang.github.io//assets/StepperMotor.ino)). When loading a new syringe into the pump, enter the corresponding syringe diameter into the program by changing the global variable SYRINGE_DIAMETER, and reupload the program to the Arduino.
 
 Press the power button. The LED will flash green, indicating the motor is running, and the motor will start dispensing liquid at the determined flow rate. To pause the motor, press the second rightmost button. The motor will pause, and the LED will signify this by flashing yellow. Press the same button again to resume motor activity. To change the flow rate, turn the potentiometer left (counter-clockwise) to lower the flow rate, and right (clockwise) to raise it. When the syringe is out of liquid, the carriage will hit the limit switch and automatically stop the motor. This will be indicated by a red LED, and will also cause the motor to stop extruding for the program;s duration. In this stopped state, the pump can be retracted to reset the pump by using the two leftmost momentary buttons, which move the carriage backwards or forwards respectively.
 
