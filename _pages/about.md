@@ -1,8 +1,8 @@
 ---
 
-title: "About David Florian"
+title: "About Clark Zhang"
 header:
-  overlay_image: /assets/img/infill_banner.j
+  overlay_image: /assets/img/infill_banner.jpg
 
 ---
 

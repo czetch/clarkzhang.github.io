@@ -9,9 +9,9 @@ header:
 
 # Features
 
-* **Compatible with 10 mL and 20 mL syringes** Press-fits incorporated at the finger holds and plunger for easy insertion and removal. Small nubs can be used to attach rubber bands to secure a syringe if the press-fits loosen.
+* **Compatible with 10 mL and 20 mL syringes** Press-fits incorporated at the finger holds and plunger for easy insertion and removal. Rubber bands can be attached to secure the syringe if the press-fits loosen.
 * **Adjustable Speed and Direction** The speed and direction of the pump can vary from 0.0006 mm/s to 0.62 mm/s by using momentary buttons and a potentiometer. The pump automatically stops at the limits of motion and prevents the carraige from crashing into the end supports.
-* **High Precision and Repeatability** The pump is driven by a
+* **High Precision and Repeatability** The pump is driven by a Nema 17 stepper motor with 1/16 microstepping using a 2 mm lead screw, and calibrated using a limited switch.
 
 # CAD Model
 
@@ -19,6 +19,7 @@ header:
 
 # Parts Required
 
+<div align="center">
 | COTS Part                                                            | Quantity |
 |----------------------------------------------------------------------|----------|
 | 250 mm lead screw with 2 mm pitch and 2 mm lead                      | 1        |
@@ -35,7 +36,8 @@ header:
 | Panel Mount Momentary Push Buttons                                   | 2        |
 | Limit Switch                                                         | 1        |
 | RGB Common Cathode LED                                               | 1        |
-
+</div>
+<div align="center">
 | Custom 3D-Printed Part | Quantity |
 |------------------------|----------|
 | Motor Housing          | 1        |
@@ -47,3 +49,4 @@ header:
 | Control Panel Wall     | 1        |
 | Logo Wall              | 1        |
 | Top Cover              | 1        |
+</div>
