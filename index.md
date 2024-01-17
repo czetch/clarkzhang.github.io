@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Lorem Ipsum."
+excerpt: "Mechanical Engineer with hands-on experience with fabrication and design"
 feature_row:
   - image_path: assets/img/index_powertools.jpg
     alt: "Power Tools"

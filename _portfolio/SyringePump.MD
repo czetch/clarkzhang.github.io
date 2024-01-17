@@ -1,6 +1,6 @@
 ---
-title: "Large Format 3D Printer"
-excerpt: "A 1 kg/hr pellet extruder and 1 cubic meter build envelope for printing furniture."
+title: "High Accuracy 3D-Printed Syringe Pump"
+excerpt: "Printed in ABS, using COTS Parts, powered by Arduino"
 header:
   image: /assets/img/Syringe_banner.png
   teaser: /assets/img/Syringe_teaser.png
