@@ -3,7 +3,7 @@ title: "Large Format 3D Printer"
 excerpt: "A 1 kg/hr pellet extruder and 1 cubic meter build envelope for printing furniture."
 header:
   image: /assets/img/Syringe_banner.png
-  teaser: /assets/img/Syringe_teaser
+  teaser: /assets/img/Syringe_teaser.png
    
 ---
 
