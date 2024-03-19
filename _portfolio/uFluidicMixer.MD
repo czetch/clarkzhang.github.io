@@ -132,6 +132,8 @@ Both sections trapped some air bubbles, but not as many compared to other device
 
 [![Video](https://img.youtube.com/vi/HoYbQrZeexU/0.jpg)](https://www.youtube.com/watch?v=HoYbQrZeexU)
 
+<iframe src="https://www.youtube.com/embed/watch?v=HoYbQrZeexU" frameborder="0" allowfullscreen></iframe>
+
 # References
 
 1. Lee CY, Chang CL, Wang YN, Fu LM. Microfluidic mixing: a review. Int J Mol Sci. 2011;12(5):3263-87. [https://doi.org/10.3390/ijms12053263](https://doi.org/10.3390/ijms12053263). Epub 2011 May 18. PMID: 21686184; PMCID: PMC3116190.
