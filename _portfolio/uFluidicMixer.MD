@@ -10,7 +10,7 @@ header:
 # Introduction
 
 Microfluidic devices are miniature systems that manipulate small volumes of liquids,
-on the order of microliters to picoliters ($$10^{-6} L$$ to $$10^{-12} L$$).
+on the order of microliters to picoliters ($10^{-6} L$ to $10^{-12} L$).
 Devices are composed of inlets, outlets, channels, and chambers that are etched
 or molded into glass or polymers.
 
@@ -32,12 +32,45 @@ While diffusion is effective between thin layers, it is rather slow when used to
 mix larger volumes of fluid. Thus, reducing the thickness of layers or increasing
 the number of layers in lamination would improve the effectiveness of diffusion.
 
+# Design Specifications
+
+- There must be at least 2 mixing sections, one by each team member. Each mixing
+section must contain some type of 3D geometry - not just a simple upward extrusion
+from a sketch (e.g., a zig-zag channel). A mixing section can contain multiple types of
+geometries.
+
+- No dead zones. The fluid flow will take the most direct path to the exit. Channels that
+double back on themselves or intersect may lead to a different path than expected.
+Trace your finger through the design, if you skip over a geometry due to a quicker path
+to the exit, then you have a dead zone.
+
+- The device, when molded, must be precisely 25 mm wide by 75 mm long to sit flush on a
+common microscope slide.
+
+- Tall and thin components are likely to break off during printing, post-processing, or
+demolding. Aspect ratio is the height to cross-sectional width or length (whichever is
+smaller) of a printed feature. Keep the aspect ratio less than 4:1. For example a feature
+that is 1.5 mm in diameter should be no taller than 6 mm.
+
+- For inlets and outlets, use a 1.5 mm post extruded above the top of the mold. This will
+create a hole that is compatible with the microfluidic barb (see image below).
+
+- Channels should be at least 4 mm away from the edge of the device or else leaking will
+occur.
+
+- The design may draw inspiration from online models, but it must be unique in its
+combination of mixing elements in its entirety.
+
+- Do not include internal features that cannot be de-molded. This includes cutbacks and
+small holes (< 0.5 mm).
+
 ## Our Device
 
 Our device is composed of two main sections. In the first section, there is a
 inclined mixer channel that leads into a spiraled set of intersecting channels.
 In the second section, a Tesla valve with an oblique mixer is used. For both sections,
-channel size was standardized to 1 mm by 1 mm.
+channel size was standardized to 1 mm by 1 mm to keep the aspect ratio below 4:1.
+
 
 The inclined mixing channels cause the fluid to sway from side to side as it
 travels along channel, resulting in a more turbulent flow pattern and better mixing.
@@ -78,21 +111,28 @@ the microfeatures are filled. Wait for the PDMS to cure.
 4. Plasma bond a glass slide to the PDMS cast. This step completes the device, which can
 then be removed from the mold.
 
+# Discussion
+
+The device was tested by injecting green and red fluid at 1 mL/min. The majority
+of the mixing was completed after passing through the spiral section. The Tesla valve
+proceeded to fully mix the fluid after two loops. The output fluid is a uniform color.
+Both sections trapped some air bubbles, but not as many compared to other devices.
+
 # Media
 
 ## Device Mold
-![Device Mold](/assets/img/uFluidic_Mold.jpeg)
+![Device Mold](assets/img/uFluidic_Device.jpg)
 
 ## Completed Device
-![Completed Device](/assets/img/uFluidic_Device.jpeg)
+![Completed Device](/assets/img/uFluidic_Device.jpg)
 
 ## Device in Action
-![Device in action](/assets/img/uFluidic_Snapshot.jpeg)
+![Device in action](/assets/img/uFluidic_Snapshot.jpg)
 
-![](/assets/uFluidic_movie.mov)
+![](assets/uFluidic_movie.mov)
 
 # References
 
-1. Lee CY, Chang CL, Wang YN, Fu LM. Microfluidic mixing: a review. Int J Mol Sci. 2011;12(5):3263-87. doi: 10.3390/ijms12053263. Epub 2011 May 18. PMID: 21686184; PMCID: PMC3116190.
+1. Lee CY, Chang CL, Wang YN, Fu LM. Microfluidic mixing: a review. Int J Mol Sci. 2011;12(5):3263-87. [https://10.3390/ijms12053263](https://10.3390/ijms12053263). Epub 2011 May 18. PMID: 21686184; PMCID: PMC3116190.
 
-2. Yang, S., Jiang, W., Chen, C., Ma, Y., & Lin, B. (2021). A Rapid prototyping of cell culture microdevices using parylene-coated 3D prints. Lab on a Chip, 2021,21, 4814-4822. https://doi.org/10.1039/D1LC00744K
+2. Yang, S., Jiang, W., Chen, C., Ma, Y., & Lin, B. (2021). A Rapid prototyping of cell culture microdevices using parylene-coated 3D prints. Lab on a Chip, 2021,21, 4814-4822. [https://doi.org/10.1039/D1LC00744K](https://doi.org/10.1039/D1LC00744K)
