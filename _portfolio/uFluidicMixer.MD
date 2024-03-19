@@ -130,7 +130,7 @@ Both sections trapped some air bubbles, but not as many compared to other device
 
 {% include gallery caption="Device Mold, Completed Device, and Device in Action." %}
 
-<iframe src="https://www.youtube.com/watch?v=HoYbQrZeexU" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/watch?v=HoYbQrZeexU" frameborder="0" allowfullscreen></iframe>
 
 # References
 
