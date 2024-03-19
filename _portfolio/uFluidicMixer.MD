@@ -121,17 +121,17 @@ Both sections trapped some air bubbles, but not as many compared to other device
 
 ## Device Mold
 
-<img src="assets/img/uFluidic_Mold.jpg">
-
-![Device Mold](assets/img/uFluidic_Mold.jpg)
+![Device Mold](./assets/img/uFluidic_Mold.jpg)
 
 ## Completed Device
-![Completed Device](/assets/img/uFluidic_Device.jpg)
+![Completed Device](./assets/img/uFluidic_Device.jpg)
 
 ## Device in Action
-![Device in action](/assets/img/uFluidic_Snapshot.jpg)
+![Device in action](./assets/img/uFluidic_Snapshot.jpg)
 
-![](assets/uFluidic_movie.mov)
+<div class="responsive-video-container">
+  <iframe src="./assets/uFluidic_movie.mov" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 # References
 
