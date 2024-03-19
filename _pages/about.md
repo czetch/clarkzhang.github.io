@@ -8,7 +8,7 @@ header:
 
 ## Education & Experience
 
-Clark is a Mechanical Engineering student with hands-on experience with fabrication and design. His background is in automotive, aerospace, and additive manufacturing. 
+Clark is a Mechanical Engineering student with hands-on experience with fabrication and design. His background is in automotive, aerospace, and additive manufacturing.
 
 * Vanderbilt University
   * B.S. Mechanical Engineering
@@ -23,6 +23,8 @@ Clark is a Mechanical Engineering student with hands-on experience with fabricat
 Clark can operate manual mills and lathes, as well as utilize computer numerical control (CNC) for milling. Clak has experience with the following additive manufacturing technologies:
 
 * Fused Filament Fabrication (FFF)
+* Vat Polymerization (SLA/VPP)
+* Selective Laser Sintering (SLS)
 
 
 ## Publications
@@ -33,6 +35,6 @@ Clark can operate manual mills and lathes, as well as utilize computer numerical
 
 ## CV
 
-<object data="/clarkzhang.github.io//assets/Resume_20231001.pdf" type="application/pdf" width="100%" height="140px">
+<object data="/clarkzhang.github.io//assets/Zhang_Clark_Resume.pdf" type="application/pdf" width="100%" height="140px">
     <p>Unable to display PDF file. <a href="/clarkzhang.github.io/assets/Resume_20231001.pdf">Download</a> instead.</p>
 </object>
