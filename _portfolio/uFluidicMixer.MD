@@ -25,7 +25,7 @@ channels, and chambers that are etched or molded into glass or polymers.
 Applications of fluidic devices are several fold. For example, in chemistry,
 mixing devices can be used to control the rate chemical reactions, or detecting
 particular properties of fluids. In biology and medicine, they are used to mix
-and sort cell cultures, or detection of pathogens.
+and sort cell cultures, or used for detection of pathogens.
 
 ## Mixing
 
@@ -130,7 +130,7 @@ Both sections trapped some air bubbles, but not as many compared to other device
 
 {% include gallery caption="Device Mold, Completed Device, and Device in Action." %}
 
-{% include video %}
+<iframe src="https://www.youtube-nocookie.com/embed/https:/www.youtube.com/watch?v=HoYbQrZeexU" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
 
 # References
 
