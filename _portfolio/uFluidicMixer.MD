@@ -11,7 +11,9 @@ gallery:
     alt: 'Completed Device'
   - image_path: assets/img/uFluidic_Snapshot.jpg
     alt: 'Device in Action'
-
+video:
+  - video_id: https://www.youtube.com/watch?v=HoYbQrZeexU
+    video_provider: "youtube"
 ---
 
 # Introduction
@@ -128,7 +130,7 @@ Both sections trapped some air bubbles, but not as many compared to other device
 
 {% include gallery caption="Device Mold, Completed Device, and Device in Action." %}
 
-[![](https://www.youtube.com/watch?v=HoYbQrZeexU/0.jpg)](https://www.youtube.com/watch?v=HoYbQrZeexU)
+{% include video %}
 
 # References
 
