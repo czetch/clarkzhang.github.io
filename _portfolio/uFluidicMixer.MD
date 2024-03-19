@@ -4,6 +4,13 @@ excerpt: "Printed in ABS, using COTS Parts, powered by Arduino"
 header:
   image: /assets/img/uFluidic_Snapshot.jpg
   teaser: /assets/img/uFluidic_Snapshot.jpg
+gallery:
+  - image_path: assets/img/uFluidic_Mold.jpg
+    alt: 'Device Mold'
+  - image_path: assets/img/uFluidic_Device.jpg
+    alt: 'Completed Device'
+  - image_path: assets/img/uFluidic_Snapshot.jpg
+    alt: 'Device in Action'
 
 ---
 
@@ -119,17 +126,9 @@ Both sections trapped some air bubbles, but not as many compared to other device
 
 # Media
 
-## Device Mold
+{% include gallery caption="Device Mold, Completed Device, and Device in Action." %}
 
-![Device Mold](/Users/czetch/Documents/Acadamia/clarkzhang.github.io/assets/img/uFluidic_Mold.jpg)
-
-## Completed Device
-![Completed Device](/Users/czetch/Documents/Acadamia/clarkzhang.github.io/assets/img/uFluidic_Device.jpg)
-
-## Device in Action
-![Device in action](/Users/czetch/Documents/Acadamia/clarkzhang.github.io/assets/img/uFluidic_Snapshot.jpg)
-
-<iframe src="/Users/czetch/Documents/Acadamia/clarkzhang.github.io/assets/uFluidic_movie.mov" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
+[![](https://www.youtube.com/watch?v=HoYbQrZeexU/0.jpg)](https://www.youtube.com/watch?v=HoYbQrZeexU)
 
 # References
 
