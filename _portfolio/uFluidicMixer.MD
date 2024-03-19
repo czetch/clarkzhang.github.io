@@ -121,7 +121,7 @@ Both sections trapped some air bubbles, but not as many compared to other device
 
 ## Device Mold
 
-{% include figure include='assets/img/uFluidic_Mold.jpg' %}
+<img src="assets/img/uFluidic_Mold.jpg">
 
 ![Device Mold](assets/img/uFluidic_Mold.jpg)
 
