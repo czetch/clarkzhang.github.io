@@ -2,17 +2,16 @@
 title: "Two-Inlet Microfluidic Mixing Device"
 excerpt: "Printed in ABS, using COTS Parts, powered by Arduino"
 header:
-  image: /assets/img/uFluidic_Snapshot.jpeg
-  teaser: /assets/img/uFluidic_Snapshot.jpeg
+  image: /assets/img/uFluidic_Snapshot.jpg
+  teaser: /assets/img/uFluidic_Snapshot.jpg
 
 ---
 
 # Introduction
 
 Microfluidic devices are miniature systems that manipulate small volumes of liquids,
-on the order of microliters to picoliters ($10^{-6} L$ to $10^{-12} L$).
-Devices are composed of inlets, outlets, channels, and chambers that are etched
-or molded into glass or polymers.
+on the order of microliters to picoliters. Devices are composed of inlets, outlets,
+channels, and chambers that are etched or molded into glass or polymers.
 
 Applications of fluidic devices are several fold. For example, in chemistry,
 mixing devices can be used to control the rate chemical reactions, or detecting
@@ -121,7 +120,10 @@ Both sections trapped some air bubbles, but not as many compared to other device
 # Media
 
 ## Device Mold
-![Device Mold](assets/img/uFluidic_Device.jpg)
+
+{% include figure.html class='[Device Mold](assets/img/uFluidic_Mold.jpg)' %}
+
+![Device Mold](assets/img/uFluidic_Mold.jpg)
 
 ## Completed Device
 ![Completed Device](/assets/img/uFluidic_Device.jpg)
@@ -133,6 +135,6 @@ Both sections trapped some air bubbles, but not as many compared to other device
 
 # References
 
-1. Lee CY, Chang CL, Wang YN, Fu LM. Microfluidic mixing: a review. Int J Mol Sci. 2011;12(5):3263-87. [https://10.3390/ijms12053263](https://10.3390/ijms12053263). Epub 2011 May 18. PMID: 21686184; PMCID: PMC3116190.
+1. Lee CY, Chang CL, Wang YN, Fu LM. Microfluidic mixing: a review. Int J Mol Sci. 2011;12(5):3263-87. [https://doi.org/10.3390/ijms12053263](https://doi.org/10.3390/ijms12053263). Epub 2011 May 18. PMID: 21686184; PMCID: PMC3116190.
 
 2. Yang, S., Jiang, W., Chen, C., Ma, Y., & Lin, B. (2021). A Rapid prototyping of cell culture microdevices using parylene-coated 3D prints. Lab on a Chip, 2021,21, 4814-4822. [https://doi.org/10.1039/D1LC00744K](https://doi.org/10.1039/D1LC00744K)
