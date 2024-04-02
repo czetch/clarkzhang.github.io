@@ -2,8 +2,8 @@
 title: "Multi-Material Pliers"
 excerpt: "Rigid PLA Jaws, Flexible TPU Joint"
 header:
-  image: /assets/img/uFluidic_Snapshot.jpg
-  teaser: /assets/img/uFluidic_Snapshot.jpg
+  image: /assets/img/pliersV1.png
+  teaser: /assets/img/pliersV2.png
 gallery:
   - image_path: assets/img/pliers.gif
     alt: 'Pliers First Draft in Action'
@@ -130,4 +130,4 @@ Rigid elements
 
 # Media
 
-{% include gallery caption="Device Mold, Completed Device, and Device in Action." %}
+{% include gallery caption="Pliers First Draft in Action, Pliers First Draft, and Pliers Final Version." %}
