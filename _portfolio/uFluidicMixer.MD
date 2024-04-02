@@ -1,6 +1,6 @@
 ---
 title: "Two-Inlet Microfluidic Mixing Device"
-excerpt: "Printed in ABS, using COTS Parts, powered by Arduino"
+excerpt: "SLA Printed Mold, PDMS Device"
 header:
   image: /assets/img/uFluidic_Snapshot.jpg
   teaser: /assets/img/uFluidic_Snapshot.jpg
