@@ -13,18 +13,6 @@ gallery:
     alt: 'Pliers Final Version'
 ---
 
-Description of the project with a blurb about print-in-place parts. Perform external
-research to determine other applications print-in-place has been used. What
-combination of materials work well for print-in-place?
-o Embedded CAD model
-o About the design and iterative process (e.g., how was the spring component
-created and how is it retained in the model, materials used)
-o Relevant specifications of the pliers (jaw length, jaw capacity)
-o Print settings
-o Picture gallery of iterations and pliers.
-o .GIF of pliers working
-
-
 # Introduction
 
 Print-in-place models are multi-part designs that are fully functional right off
