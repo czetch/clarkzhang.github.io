@@ -2,13 +2,13 @@
 title: "Adjustable Phone Bike-Mount"
 excerpt: "Demonstration of Top-down Modeling"
 header:
-  image: /assets/img/BikeMountCS.png
+  image: /assets/img/BikeMountV2.png
   teaser: /assets/img/BikeMountCS.png
 gallery:
   - image_path: assets/img/BikeMountCS.png
   - image_path: assets/img/BikeMountLocking.png
   - image_path: assets/img/BikeMountV1.png
-  - image_path: assets/img/BikeMountV1.png
+  - image_path: assets/img/BikeMountV2.png
 ---
 
 # Introduction
