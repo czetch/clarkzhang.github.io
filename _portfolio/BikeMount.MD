@@ -1,5 +1,5 @@
 ---
-title: "Adjustable Bike-Mount"
+title: "Adjustable Phone Bike-Mount"
 excerpt: "Demonstration of Top-down Modeling"
 header:
   image: /assets/img/BikeMountCS.png
