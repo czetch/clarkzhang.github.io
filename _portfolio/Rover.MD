@@ -2,11 +2,13 @@
 title: "Mechatronics Rover"
 excerpt: "WiFi-Controlled 3-Wheel Cart"
 header:
-  image: /assets/img/pliersV1.png
-  teaser: /assets/img/pliersV2.png
+  image: /assets/img/rover.png
+  teaser: /assets/img/rover.png
 gallery:
-  - image_path: assets/img/pliers.gif
-    alt: 'Pliers First Draft in Action'
+  - image_path: assets/img/rover.gif
+    alt: 'Rover in Action'
+  - image_path: assets/img/rover_schematic.jpg
+    alt: 'Electrical Schematic'
 
 ---
 
@@ -51,7 +53,7 @@ The compass module reads signals from the onboard magnetometer and sends the sig
 
 To power the system, a 6000mAh 11.1 V LiPo battery is used. A main power switch is connected in series with the hot wire from the LiPo. The L298n module has a 12V to 5V converter that is used to power the Arduino.  
 
-Finally, a rugged box is printed from PLA to house the electronics.  
+Finally, a rugged box is printed from PLA to house the electronics.
 
 #		System Complexity
 
@@ -69,4 +71,4 @@ Aesthetics – There are only two sets of wires that are visible to the user dur
 
 # Media
 
-{% include gallery caption="Pliers First Draft in Action, Pliers First Draft, and Pliers Final Version." %}
+{% include gallery caption="Rover in Action, Electrical Schematic." %}
