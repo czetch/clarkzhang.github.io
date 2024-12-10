@@ -2,8 +2,8 @@
 title: "Induction System for VUM-25"
 excerpt: "Redesigning the intake for the Vanderbilt Formula SAE team"
 header:
-  image: /assets/img/rover.png
-  teaser: /assets/img/rover.png
+  image: /assets/img/AirBenderOnCar.jpeg
+  teaser: /assets/img/AirBenderLogo.png
 gallery:
   - image_path: assets/img/rover.gif
     alt: 'Rover in Action'
@@ -12,4 +12,8 @@ gallery:
 
 # Introduction
 
-https://docs.google.com/document/d/1zIowno0URSlQIyixMJQF2tFGhgPfnqqJeHr3-MQrnAc/edit?usp=sharing
+## CV
+
+<object data="/clarkzhang.github.io//assets/DBT2 Report - Air Benders.pdf" type="application/pdf" width="100%" height="140px">
+    <p>Unable to display PDF file. <a href="/clarkzhang.github.io/assets/DBT2 Report - Air Benders.pdf">Download</a> instead.</p>
+</object>
